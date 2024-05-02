@@ -2,6 +2,7 @@
 output/
 data/generated/
 *test*
+logs/*
 # profiler/*
 
 # Byte-compiled / optimized / DLL files

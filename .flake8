@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 90
+exclude = .venv/,./release_notes.py,__init__.py,src/tests/*
+ignore = E226,E302,E41,E702,E731,E231,W503
